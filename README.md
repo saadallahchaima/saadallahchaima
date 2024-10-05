@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍💻 Software Engineer sharing some projects
-- 🌱 I’m currently learning web and mobile development
+- 🌱 I’m currently learning Mobile and Web Development
 - 👩🏻‍🎓 Studied Computer Science at ESPRIT
 - 🔭 I’m currently working on a **fraud management system** project using **React** and **Spring Boot** and **Microservices**
 - 🌱 I’m enhancing my skills in **Flutter**, **React**, **Spring Boot**, and **Devops**
