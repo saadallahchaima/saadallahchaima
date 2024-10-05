@@ -82,10 +82,13 @@
 Here are some of the projects I’ve been working on:
 
 - **[Fraud Management System](#)**: A full-stack solution for managing telecom fraud, using **React** for the frontend and **Spring Boot** for the backend.
-- **[Mobile Performance App](#)**: An application showcasing the performance of mobile operators using data visualizations in **Flutter**.
-- **[Custom Flutter Components](#)**: A library of reusable components for **Flutter** apps, including custom buttons, card designs, and more.
+- **[ Platform for autistic children](#)**:Develop a platform integrating cognitive games to promote their learning. The platform
+includes a medical chatbot to answer parents' questions and an automated diagnostic system,optimizing the support of psychologists.
+Technologies used: **Angular 17**, **SpringBoot**, **PostgreSQL**, **MongoDB**, **nodeJS**, **Microservices architecture**,**unity**....
+- **[ Flutter Project](#)**: Development of a fuel management application with
+**Flutter** and **Node.js**, **UX/UI design** .
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaima-saadallah-9845471a6/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/chaima-saadallah-9845471a6/](https://www.linkedin.com/in/chaima-saadallah-9845471a6/)) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
