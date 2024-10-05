@@ -2,9 +2,14 @@
 
 
 - 👩🏻‍💻 Software Engineer sharing some projects
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web and mobile development
 - 👩🏻‍🎓 Studied Computer Science at ESPRIT
-- 
+- 🔭 I’m currently working on a **fraud management system** project using **React** and **Spring Boot** and **Microservices**
+- 🌱 I’m enhancing my skills in **Flutter**, **React**, **Spring Boot**, and **Devops**
+- 👯 I’m open to collaborate on **open-source projects** and **internships abroad**
+- 💬 Ask me about **mobile development** and **full-stack web applications**
+- 📫 How to reach me: [saadallahchaima58@gmail.com](mailto:saadallahchaima58@gmail.com)
+
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -72,6 +77,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saadallahchaima&icon=4&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 Projects
+
+Here are some of the projects I’ve been working on:
+
+- **[Fraud Management System](#)**: A full-stack solution for managing telecom fraud, using **React** for the frontend and **Spring Boot** for the backend.
+- **[Mobile Performance App](#)**: An application showcasing the performance of mobile operators using data visualizations in **Flutter**.
+- **[Custom Flutter Components](#)**: A library of reusable components for **Flutter** apps, including custom buttons, card designs, and more.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaima-saadallah-9845471a6/) 
