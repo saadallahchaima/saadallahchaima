@@ -1,6 +1,14 @@
 ## 💫Hi, I'm Chaima! 👋
 
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/Sijal Ansari.png" height="100px"/></a>
+</p>
+<h1 align="center">Hi 👋, I'm CHAIMA Saadallah 🎀👩🏻‍💻</h1>
+<h3 align="center">Future software engineer| Computer science engineering student at ESPRIT</h3>
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimjed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimjed" /> </p>
 
+
+- 💬 Ask me about **FullStack Web Applications, Devops, Mobile Applications**
 - 👩🏻‍💻 Software Engineer sharing some projects
 - 🌱 I’m currently learning Mobile and Web Development
 - 👩🏻‍🎓 Studied Computer Science at ESPRIT
