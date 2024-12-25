@@ -90,7 +90,7 @@
 ## 👨‍💻 Projects
 
 Here are some of the projects I’ve been working on:
-
+- **[FreelanceProject](#)**: Develop a mobile application using Flutter to connect customers with service providers, ensuring a responsive design and a user-friendly interface.
 - **[Fraud Management System](#)**: A full-stack solution for managing telecom fraud, using **React** for the frontend and **Spring Boot** for the backend.
 - **[ Platform for autistic children](#)**:Develop a platform integrating cognitive games to promote their learning. The platform
 includes a medical chatbot to answer parents' questions and an automated diagnostic system,optimizing the support of psychologists.
