@@ -85,6 +85,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saadallahchaima&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chaimasaadallah&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 ## 👨‍💻 Projects
 
 Here are some of the projects I’ve been working on:
