@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e2,50:ff8fcb,100:c9a0ff&height=170&section=header" width="100%" alt=""/>
 
+<img src="https://api.dicebear.com/9.x/lorelei/svg?seed=Chaima&backgroundColor=ffc2e2,e0bbff&radius=50&size=180" width="180" height="180" alt="Chaima's avatar"/>
+
 # Chaima Saadallah
 
 ### Software Engineer · Full-Stack · Mobile · AI & Cybersecurity
