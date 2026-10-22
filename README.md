@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e2,50:ff8fcb,100:c9a0ff&height=170&section=header" width="100%" alt=""/>
-
-<img src="avatar.png" width="180" height="180" alt="Chaima Saadallah"/>
-
 # Chaima Saadallah
 
 ### Software Engineer · Full-Stack · Mobile · AI & Cybersecurity
