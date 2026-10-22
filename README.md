@@ -153,7 +153,7 @@ Fuel management application built with Flutter and Node.js, with a strong focus 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saadallahchaima&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=fff0f6&title_color=ff4da6&text_color=7a3b69&icon_color=ff69b4" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saadallahchaima&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=fff0f6&title_color=ff4da6&text_color=7a3b69&icon_color=ff69b4" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadallahchaima&layout=compact&hide_border=true&bg_color=fff0f6&title_color=ff4da6&text_color=7a3b69" />
 
 <br/>
